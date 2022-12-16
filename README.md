@@ -1,4 +1,4 @@
-# Artivo [img 1](https://user-images.githubusercontent.com/110050048/208008002-d01c5aed-2605-45d4-9465-a4215a52f5ba.png)
+# Artivo ![img 1](https://user-images.githubusercontent.com/110050048/208008002-d01c5aed-2605-45d4-9465-a4215a52f5ba.png)
 •	Website allows you to showcase your Digital Art online. Can post description, tags, and digital art image.
 •	Art can be viewed and liked by everyone. Users can only edit and delete their own artworks once signed-in
 ![img 2](https://user-images.githubusercontent.com/110050048/208008008-f4f60fbf-a994-49eb-aed0-d90d46800829.png)
