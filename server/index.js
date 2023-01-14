@@ -20,6 +20,9 @@ app.use('/user', userRoutes);
 const CONNECTION_URL = 'mongodb+srv://javascriptmaster:javascriptmaster123@cluster0.abb916h.mongodb.net/?retryWrites=true&w=majority';
 const PORT = process.env.PORT || 5000;
 
+this.app.use(express.static(
+    path.join(__dirname,"../client/build")));
+
 mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
  .then(() => app.listen(PORT, () => console.log(`Server Running on Port: http://localhost:${PORT}`)))
  .catch((error) => console.log(`${error} did not connect`));
