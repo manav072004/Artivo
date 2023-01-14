@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8c5244f.css",
+    "main.js": "/static/js/main.d50c9873.js",
+    "static/media/artvio.png": "/static/media/artvio.287f74abccb09aa6ad64.png",
+    "index.html": "/index.html",
+    "main.e8c5244f.css.map": "/static/css/main.e8c5244f.css.map",
+    "main.d50c9873.js.map": "/static/js/main.d50c9873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c5244f.css",
+    "static/js/main.d50c9873.js"
+  ]
+}
